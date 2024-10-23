@@ -1,6 +1,8 @@
 ## Hi👋 I'm Tetsuya Kikuchi.
+
 - I'm a maintainer of [PipeCD](https://github.com/pipe-cd/pipecd)
 - My resume: _TBA_
+- My area of interest: DevOps, CI/CD, AWS, IaC
 
 ## Speaking
 
