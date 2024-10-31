@@ -2,7 +2,7 @@
 
 - I'm a maintainer of [PipeCD](https://github.com/pipe-cd/pipecd)
 - My resume: _TBA_
-- My area of interest: DevOps, CI/CD, AWS, IaC
+- My area of interest: DevOps, CI/CD, AWS (especially ECS), IaC
 
 ## Speaking
 
