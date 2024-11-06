@@ -21,7 +21,12 @@
   - <https://zenn.dev/t_kikuc/>
 
 ## Stats
-<div align="left">
+<!-- <div align="left">
+  <img src="https://raw.githubusercontent.com/t-kikuc/t-kikuc/master/profile-summary-card-output/zenburn/0-profile-details.svg">
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=t-kikuc&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-kikuc&theme=vue-dark&layout=compact" />
-</div>
+</div> -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t-kikuc&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t-kikuc&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t-kikuc&theme=nord_dark)
