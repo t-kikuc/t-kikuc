@@ -20,11 +20,6 @@
 - hatena blog: <https://t-kikuc.hatenablog.com/>
 
 ## Stats
-<!-- <div align="left">
-  <img src="https://raw.githubusercontent.com/t-kikuc/t-kikuc/master/profile-summary-card-output/zenburn/0-profile-details.svg">
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=t-kikuc&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-kikuc&theme=vue-dark&layout=compact" />
-</div> -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t-kikuc&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t-kikuc&theme=nord_dark)
