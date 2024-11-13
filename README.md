@@ -16,9 +16,8 @@
 
 ## Blog
 
-- Japanese
-  - <https://t-kikuc.hatenablog.com/>
-  - <https://zenn.dev/t_kikuc/>
+- Zenn: <https://zenn.dev/t_kikuc/>
+- hatena blog: <https://t-kikuc.hatenablog.com/>
 
 ## Stats
 <!-- <div align="left">
