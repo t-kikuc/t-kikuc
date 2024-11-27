@@ -2,9 +2,11 @@
 
 - I'm a maintainer of [PipeCD](https://github.com/pipe-cd/pipecd)
 - My resume: _TBA_
-- My area of interest: DevOps, CI/CD, AWS (especially ECS), IaC
+- I'm interested in: DevOps, CI/CD, AWS (especially ECS), IaC
 
-## Speaking
+## 🗣️Speaking
+
+See [SpeakerDeck](https://speakerdeck.com/tkikuc/).
 
 | Date       | Title                                                                                                                                                     | Tags        | Time  | Event                                                                             |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----- | --------------------------------------------------------------------------------- |
@@ -14,12 +16,11 @@
 | 2024-09-14 | [OSSのメンテナが入門ハンズオンをなぜ・どのように作成したか](https://speakerdeck.com/tkikuc/ossnomentenaga-ru-men-hanzuonwo-nazedonoyounizuo-cheng-sitaka) | DevRel, OSS | 20min | [DevRel/Japan CONFERENCE 2024](https://devrel.tokyo/japan-2024/)                  |
 | 2024-08-02 | [ECSのCanaryリリースをExternalデプロイタイプで実現する方法](https://speakerdeck.com/tkikuc/ecsnocanaryririsuwoexternaldepuroitaipudeshi-xian-surufang-fa) | ECS, PipeCD | 5min  | [Finatext TechNight #2](https://finatext.connpass.com/event/325175/)              |
 
-## Blog
+## 🖊️Blog
 
-- Zenn: <https://zenn.dev/t_kikuc/>
-- hatena blog: <https://t-kikuc.hatenablog.com/>
+<https://zenn.dev/t_kikuc/> (Japanese)
 
-## Stats
+## 📈Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t-kikuc&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t-kikuc&theme=nord_dark)
