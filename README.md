@@ -4,6 +4,16 @@
 - My resume: _TBA_
 - I'm interested in: DevOps, CI/CD, AWS (especially ECS), IaC
 
+## Self-made Tools
+
+- [**ecstop**](https://github.com/t-kikuc/ecstop): a CLI tool to instantly stop your running ECS resources.
+
+## 📈Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t-kikuc&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t-kikuc&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t-kikuc&theme=nord_dark)
+
 ## 🗣️Speaking
 
 See [SpeakerDeck](https://speakerdeck.com/tkikuc/).
@@ -20,9 +30,3 @@ See [SpeakerDeck](https://speakerdeck.com/tkikuc/).
 ## 🖊️Blog
 
 <https://zenn.dev/t_kikuc/> (Japanese)
-
-## 📈Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t-kikuc&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t-kikuc&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t-kikuc&theme=nord_dark)
