@@ -29,4 +29,7 @@ See [SpeakerDeck](https://speakerdeck.com/tkikuc/).
 
 ## 🖊️Blog
 
-<https://zenn.dev/t_kikuc/> (Japanese)
+- Zenn: <https://zenn.dev/t_kikuc/> (Japanese)
+- dev.to: <https://dev.to/t-kikuc> (English)
+
+
