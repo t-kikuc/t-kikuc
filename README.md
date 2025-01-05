@@ -1,4 +1,4 @@
-## Hi👋 I'm Tetsuya Kikuchi
+## Hi👋 I'm Tetsuya KIKUCHI
 
 - I'm a maintainer of [PipeCD](https://github.com/pipe-cd/pipecd)
 - My resume: _TBA_
