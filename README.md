@@ -14,6 +14,12 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=t-kikuc&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=t-kikuc&theme=nord_dark)
 
+## 🖊️Blog
+
+- Zenn: <https://zenn.dev/t_kikuc/> (Japanese)
+- dev.to: <https://dev.to/t-kikuc> (English)
+
+
 ## 🗣️Speaking
 
 See [SpeakerDeck](https://speakerdeck.com/tkikuc/).
@@ -26,10 +32,4 @@ See [SpeakerDeck](https://speakerdeck.com/tkikuc/).
 | 2024-09-25 | [ECS向けのドリフト検知機構を実装してみた](https://speakerdeck.com/tkikuc/ecsxiang-kenodorihutojian-zhi-ji-gou-woshi-zhuang-sitemita)                      | ECS, PipeCD | 5min  | [JAWS-UG Tokyo - LunchTimeLT #15](https://jawsug.connpass.com/event/328719/)      |
 | 2024-09-14 | [OSSのメンテナが入門ハンズオンをなぜ・どのように作成したか](https://speakerdeck.com/tkikuc/ossnomentenaga-ru-men-hanzuonwo-nazedonoyounizuo-cheng-sitaka) | DevRel, OSS | 20min | [DevRel/Japan CONFERENCE 2024](https://devrel.tokyo/japan-2024/)                  |
 | 2024-08-02 | [ECSのCanaryリリースをExternalデプロイタイプで実現する方法](https://speakerdeck.com/tkikuc/ecsnocanaryririsuwoexternaldepuroitaipudeshi-xian-surufang-fa) | ECS, PipeCD | 5min  | [Finatext TechNight #2](https://finatext.connpass.com/event/325175/)              |
-
-## 🖊️Blog
-
-- Zenn: <https://zenn.dev/t_kikuc/> (Japanese)
-- dev.to: <https://dev.to/t-kikuc> (English)
-
 
