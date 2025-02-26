@@ -6,6 +6,7 @@
 
 ## Self-made Tools
 
+- [PipeCD Plugin Prototypes](https://github.com/t-kikuc/pipecd-plugin-prototypes): Prototypes of [PipeCD Plugin](https://pipecd.dev/blog/2024/11/28/overview-of-the-plan-for-pluginnable-pipecd/)
 - [**ecstop**](https://github.com/t-kikuc/ecstop): a CLI tool to instantly stop your running ECS resources.
 
 ## 📈Stats
