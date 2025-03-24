@@ -3,6 +3,7 @@
 - I'm a maintainer of [PipeCD](https://github.com/pipe-cd/pipecd)
 - My resume: _TBA_
 - I'm interested in: DevOps, CI/CD, AWS (especially ECS), IaC
+- AWS Community Builder (Containers)
 
 ## Self-made Tools
 
