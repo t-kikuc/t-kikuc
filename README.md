@@ -1,7 +1,6 @@
 ## Hi👋 I'm Tetsuya KIKUCHI
 
 - I'm a maintainer of [PipeCD](https://github.com/pipe-cd/pipecd)
-- My resume: _TBA_
 - I'm interested in: DevOps, CI/CD, AWS (especially ECS), IaC
 - AWS Community Builder (Containers)
 
@@ -21,6 +20,8 @@
 - Zenn: <https://zenn.dev/t_kikuc/> (Japanese)
 - dev.to: <https://dev.to/t-kikuc> (English)
 
+Recent best post:
+[Introduction to Gitless GitOps: A New OCI-Centric and Secure Architecture](https://dev.to/t-kikuc/introduction-to-gitless-gitops-a-new-oci-centric-and-secure-architecture-2pgi)
 
 ## 🗣️Speaking
 
