@@ -20,8 +20,9 @@
 - Zenn: <https://zenn.dev/t_kikuc/> (Japanese)
 - dev.to: <https://dev.to/t-kikuc> (English)
 
-Recent best post:
-[Introduction to Gitless GitOps: A New OCI-Centric and Secure Architecture](https://dev.to/t-kikuc/introduction-to-gitless-gitops-a-new-oci-centric-and-secure-architecture-2pgi)
+Best posts:
+- [Introduction to Gitless GitOps: A New OCI-Centric and Secure Architecture](https://dev.to/t-kikuc/introduction-to-gitless-gitops-a-new-oci-centric-and-secure-architecture-2pgi) 2025
+- [Comparing 5 Methods of ECS Interservice Communication Including VPC Lattice](https://dev.to/aws-builders/comparing-5-methods-of-ecs-interservice-communication-including-vpc-lattice-51f0) 2025
 
 ## 🗣️Speaking
 
