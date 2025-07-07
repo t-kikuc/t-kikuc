@@ -1,7 +1,7 @@
 ## Hi👋 I'm Tetsuya KIKUCHI
 
 - I'm a maintainer of [PipeCD](https://github.com/pipe-cd/pipecd)
-- I'm interested in: DevOps, CI/CD, AWS (especially ECS), IaC
+- Interested in: DevOps, CI/CD, AWS (especially ECS), IaC
 - AWS Community Builder (Containers)
 
 ## Self-made Tools
@@ -17,13 +17,17 @@
 
 ## 🖊️Blog
 
-- Zenn: <https://zenn.dev/t_kikuc/> (Japanese)
-- dev.to: <https://dev.to/t-kikuc> (English)
+- Japanese: <https://zenn.dev/t_kikuc/>
+- English: <https://dev.to/t-kikuc>
 
-Best posts:
-- [Introduction to Gitless GitOps: A New OCI-Centric and Secure Architecture](https://dev.to/t-kikuc/introduction-to-gitless-gitops-a-new-oci-centric-and-secure-architecture-2pgi) 2025
-- [Comparing 5 Methods of ECS Interservice Communication Including VPC Lattice](https://dev.to/aws-builders/comparing-5-methods-of-ecs-interservice-communication-including-vpc-lattice-51f0) 2025
+Pick up:
+- [Introduction to Gitless GitOps: A New OCI-Centric and Secure Architecture](https://dev.to/t-kikuc/introduction-to-gitless-gitops-a-new-oci-centric-and-secure-architecture-2pgi) (2025)
+- [Comparing 5 Methods of ECS Interservice Communication Including VPC Lattice](https://dev.to/aws-builders/comparing-5-methods-of-ecs-interservice-communication-including-vpc-lattice-51f0) (2025)
 
 ## 🗣️Speaking
 
 See [SpeakerDeck](https://speakerdeck.com/tkikuc/).
+
+Pick up:
+- [Selection of ECS Interservice Communication 2025](https://speakerdeck.com/tkikuc/selection-of-ecs-interservice-communication-2025) @AWS Summit Japan 2025
+- [GitOps for Everything with Pluggable PipeCD](https://speakerdeck.com/tkikuc/gitops-for-everything-with-new-pluggable-pipecd) @KubeCon EU 2025 LT
