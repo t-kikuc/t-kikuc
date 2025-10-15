@@ -1,7 +1,6 @@
 ## Hi👋 I'm Tetsuya KIKUCHI
 
-- I'm a maintainer of [PipeCD](https://github.com/pipe-cd/pipecd)
-- Interested in: DevOps, CI/CD, AWS (especially ECS), IaC
+- Interested in: DevOps, CI/CD, AWS (especially ECS), Containers
 - AWS Community Builder (Containers)
 
 ## 📈Stats
